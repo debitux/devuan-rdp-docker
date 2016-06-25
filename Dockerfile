@@ -1,4 +1,4 @@
-FROM debitux/devuan:testing
+FROM debitux/devuan:stable
 
 ENV UN dev
 ENV PW qwerty
